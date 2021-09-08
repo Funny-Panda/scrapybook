@@ -1,4 +1,4 @@
-# 精通Python爬虫框架配套代码
+# 精通Python爬虫框架Scrapy-配套代码
 Learning Scrapy Book
 ==========
 
